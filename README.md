@@ -3,7 +3,7 @@
 
 <h4 align="center">Languages & tools that I use work with:</h4>
 
-<p align="center">  </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Python" width="40" height="40"/> </a>  <a href="https://nginx.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.svgrepo.com/show/306098/githubactions.svg" alt="Github Actions" width="40" height="40"/> </a>
+<p align="center">  </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Python" width="40" height="40"/> </a>  <a href="https://nginx.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="Github Actions" width="40" height="40"/> </a>
 
   
 
